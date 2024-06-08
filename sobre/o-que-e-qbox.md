@@ -80,7 +80,11 @@ Atualmente a base está na Fase 2 de desenvolvimento. Será disponibilizada ao p
 | criar elevadores e teleports in game    | ❌      | ❌    | ✅        |
 | criar outdoors in game                  | ❌      | ❌    | ✅        |
 | criar craftings in game                 | ❌      | ❌    | ✅        |
-| criar jobs in game                      | ❌      | ❌    | 🔄       |
+| criar jobs in game                      | ❌      | ❌    | ✅        |
+| criar gangs in game                     | ❌      | ❌    | ✅        |
+| criar lojas in game                     | ❌      | ❌    | 🔄       |
+| comprar e gerenciar lojas in game       | ❌      | ❌    | 🔄       |
+| comprar posto in game                   | ❌      | ❌    | ✅        |
 | criar farms in game                     | ❌      | ❌    | 🔄       |
 | criar portas in game                    | ❌      | ✅    | ✅        |
 | painel admin com diversas funções       | 🔧     | 🔧   | ✅        |
