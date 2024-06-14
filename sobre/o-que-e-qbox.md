@@ -63,7 +63,7 @@ Atualmente a base está na Fase 2 de desenvolvimento. Será disponibilizada ao p
 
 
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>✅<strong>Fase 1</strong></td><td><ul><li>Tradução e jogabilidade Brasileira</li><li>Sistemas administrativos</li><li>Sistema financeiro</li><li>Sistema de polícia</li><li>Sistema de hospital</li></ul></td><td></td></tr><tr><td>🔄<strong>Fase 2</strong></td><td><ul><li>Sistema de empregos legais</li><li>Sistema de empregos ilegais</li><li>Sistema de experiência</li><li>Sistema de gerenciamento dos líderes</li></ul></td><td></td></tr><tr><td>🔄<strong>Fase 3</strong></td><td><ul><li>Testes finais</li><li>Documentação dos scripts da base</li></ul></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>✅<strong>Fase 1</strong></td><td><ul><li>✅ Tradução e jogabilidade Brasileira</li><li>✅ Sistemas administrativos</li><li>✅ Sistema financeiro</li><li>✅ Sistema de polícia</li><li>✅ Sistema de hospital</li></ul></td><td></td></tr><tr><td>🔄<strong>Fase 2</strong></td><td><ul><li>✅ Sistema de empregos legais</li><li>🔄 Sistema de empregos ilegais</li><li>✅ Sistema de experiência</li><li>✅ Sistema de gerenciamento dos líderes</li></ul></td><td></td></tr><tr><td>🔄<strong>Fase 3</strong></td><td><ul><li>Testes finais</li><li>Documentação dos scripts da base</li></ul></td><td></td></tr></tbody></table>
 
 ***
 
