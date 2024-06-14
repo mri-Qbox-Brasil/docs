@@ -86,7 +86,7 @@ Atualmente a base está na Fase 2 de desenvolvimento. Será disponibilizada ao p
 | comprar e gerenciar lojas in game       | ❌      | ❌    | 🔄       |
 | comprar posto in game                   | ❌      | ❌    | ✅        |
 | criar farms in game                     | ❌      | ❌    | 🔄       |
-| criar portas in game                    | ❌      | ✅    | ✅        |
+| criar portas in game                    | ✅      | ✅    | ✅        |
 | painel admin com diversas funções       | 🔧     | 🔧   | ✅        |
 | leve                                    | 🔧     | ✅    | ✅        |
 | legível e bem organizado                | 🔧     | ✅    | ✅        |
