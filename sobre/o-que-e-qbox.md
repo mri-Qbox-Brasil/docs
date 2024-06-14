@@ -63,33 +63,40 @@ Atualmente a base está na Fase 2 de desenvolvimento. Será disponibilizada ao p
 
 
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>✅<strong>Fase 1</strong></td><td><ul><li>✅ Tradução e jogabilidade Brasileira</li><li>✅ Sistemas administrativos</li><li>✅ Sistema financeiro</li><li>✅ Sistema de polícia</li><li>✅ Sistema de hospital</li></ul></td><td></td></tr><tr><td>🔄<strong>Fase 2</strong></td><td><ul><li>✅ Sistema de empregos legais</li><li>🔄 Sistema de empregos ilegais</li><li>✅ Sistema de experiência</li><li>✅ Sistema de gerenciamento dos líderes</li></ul></td><td></td></tr><tr><td>🔄<strong>Fase 3</strong></td><td><ul><li>Testes finais</li><li>Documentação dos scripts da base</li></ul></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>✅<strong>Fase 1</strong></td><td><ul><li>✅ Tradução e jogabilidade Brasileira</li><li>✅ Sistemas administrativos</li><li>✅ Sistema financeiro</li><li>✅ Sistema de polícia</li><li>✅ Sistema de hospital</li></ul></td><td></td></tr><tr><td>🔄<strong>Fase 2</strong></td><td><ul><li>✅ Sistema de empregos legais</li><li>🔄 Sistema de empregos ilegais</li><li>✅ Sistema de experiência</li><li>✅ Sistema de gerenciamento dos líderes</li></ul></td><td></td></tr><tr><td>🔄<strong>Fase 3</strong></td><td><ul><li>Sistema de Vip</li><li>Sistema de update da base</li><li>Revisão e Testes finais</li><li>Documentação dos scripts da base</li></ul></td><td></td></tr></tbody></table>
 
 ***
 
 ## ⚡ Vamos fazer uma breve comparação[​](https://www.whyqbox.wtf/#%E2%9A%A1-let-s-make-a-brief-comparison)
 
-| Funcionalidades                         | QBCore | Qbox | mri Qbox |
-| --------------------------------------- | ------ | ---- | -------- |
-| tradução e jogabilidade BR              | ❌      | ❌    | ✅        |
-| criar garagens in game                  | ❌      | ❌    | ✅        |
-| criar baús in game                      | ❌      | ❌    | ✅        |
-| criar blips in game                     | ❌      | ❌    | ✅        |
-| criar npcs in game                      | ❌      | ❌    | ✅        |
-| criar objetos e props in game           | ❌      | ❌    | ✅        |
-| criar elevadores e teleports in game    | ❌      | ❌    | ✅        |
-| criar outdoors in game                  | ❌      | ❌    | ✅        |
-| criar craftings in game                 | ❌      | ❌    | ✅        |
-| criar jobs in game                      | ❌      | ❌    | ✅        |
-| criar gangs in game                     | ❌      | ❌    | ✅        |
-| criar lojas in game                     | ❌      | ❌    | 🔄       |
-| comprar e gerenciar lojas in game       | ❌      | ❌    | 🔄       |
-| comprar posto in game                   | ❌      | ❌    | ✅        |
-| criar farms in game                     | ❌      | ❌    | 🔄       |
-| criar portas in game                    | ✅      | ✅    | ✅        |
-| painel admin com diversas funções       | 🔧     | 🔧   | ✅        |
-| leve                                    | 🔧     | ✅    | ✅        |
-| legível e bem organizado                | 🔧     | ✅    | ✅        |
-| nenhum erro de lint presente            | ✅      | ✅    | ✅        |
-| estrutura modular                       | ✅      | ✅    | ✅        |
-| nenhuma função obsoleta sendo utilizada | ✅      | ✅    | ✅        |
+| Funcionalidades                                                                                     | QBCore | Qbox | mri Qbox |
+| --------------------------------------------------------------------------------------------------- | ------ | ---- | -------- |
+| tradução e jogabilidade BR                                                                          | ❌      | ❌    | ✅        |
+| criar garagens in game                                                                              | ❌      | ❌    | ✅        |
+| criar baús in game                                                                                  | ❌      | ❌    | ✅        |
+| criar blips in game                                                                                 | ❌      | ❌    | ✅        |
+| criar npcs in game                                                                                  | ❌      | ❌    | ✅        |
+| criar objetos e props in game                                                                       | ❌      | ❌    | ✅        |
+| criar elevadores e teleports in game                                                                | ❌      | ❌    | ✅        |
+| criar outdoors in game                                                                              | ❌      | ❌    | ✅        |
+| criar craftings in game                                                                             | ❌      | ❌    | ✅        |
+| criar jobs in game                                                                                  | ❌      | ❌    | ✅        |
+| criar gangs in game                                                                                 | ❌      | ❌    | ✅        |
+| criar lojas in game                                                                                 | ❌      | ❌    | ✅        |
+| comprar e gerenciar lojas in game                                                                   | ❌      | ❌    | 🔄       |
+| criar armário de uniformes in game                                                                  | ❌      | ❌    | 🔄       |
+| lider pode editar uniformes do grupo in game                                                        | ❌      | ❌    | ✅        |
+| criar local de bater ponto in game                                                                  | ❌      | ❌    | ✅        |
+| criar garagens in game                                                                              | ❌      | ❌    | ✅        |
+| criar garagens com carros pré setados in game (exemplo garagem de viaturas, ambulância ou guinchos) | ❌      | ❌    | ✅        |
+| registrar novos carros in game                                                                      | ❌      | ❌    | 🔄       |
+| mudar preço de carros in game                                                                       | ❌      | ❌    | 🔄       |
+| comprar posto in game                                                                               | ❌      | ❌    | ✅        |
+| criar farms in game                                                                                 | ❌      | ❌    | ✅        |
+| criar portas in game                                                                                | ✅      | ✅    | ✅        |
+| painel admin com diversas funções                                                                   | 🔧     | 🔧   | ✅        |
+| leve                                                                                                | 🔧     | ✅    | ✅        |
+| legível e bem organizado                                                                            | 🔧     | ✅    | ✅        |
+| nenhum erro de lint presente                                                                        | ✅      | ✅    | ✅        |
+| estrutura modular                                                                                   | ✅      | ✅    | ✅        |
+| nenhuma função obsoleta sendo utilizada                                                             | ✅      | ✅    | ✅        |
